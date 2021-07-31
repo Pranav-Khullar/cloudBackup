@@ -1,0 +1,2 @@
+2021-04-14 23:23:13,623 Backup_Successful C:\Users\prana\Desktop\Backup\qwerty.txt
+2021-04-14 23:23:15,719 Backup_Successful C:\Users\prana\Desktop\Backup\test.txt
